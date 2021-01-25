@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<robot name="pan_tilt_camera">
+  <link name="base_link">
+    <visual>
+      <geometry>
+        <cylindar length="0.6" rasius="0.2"/>
+      </geometry>
+    </visual>
+  </link>
+</robot>
